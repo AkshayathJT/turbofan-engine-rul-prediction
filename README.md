@@ -124,7 +124,9 @@ turbofan-engine-rul-prediction
 
 ---
 
+## Demo Video
 
+<a href="./Demo_Video.mp4">Click here to watch the pilot demo</a>
 
 
 ---
